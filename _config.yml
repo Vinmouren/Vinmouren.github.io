@@ -23,7 +23,7 @@ repository               : "vinmouren/vinmouren.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "https://i.postimg.cc/hhFJMnYq/Weixin-Image-20260201121519-1-9.jpg"
   name             : "Vincent"
   pronouns         : "he"  
   bio              : "Currently a middle school student, with a passion for mechanics."
