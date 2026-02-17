@@ -36,3 +36,7 @@ Test the trigger from your phone. Once it works, you can share access with your 
 ---
 **⚠️ A Quick Note on Safety:**
 While the voltage involved here is low (DC), please ensure you unplug the garage door motor before wiring. If you are not comfortable with basic circuitry, it is always a good idea to have a friend with technical experience help out!
+![Garage Door Remote Setup](/images/garage-diy-01.jpg)
+![Garage Door Remote Setup](/images/garage-diy-02.jpg)
+![Garage Door Remote Setup](/images/garage-diy-03.jpg)
+![Garage Door Remote Setup](/images/garage-diy-04.jpg)
