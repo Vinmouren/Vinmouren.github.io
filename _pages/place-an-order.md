@@ -1,7 +1,7 @@
 ---
 title: "Service Request"
 layout: single
-permalink: /Place an order/
+permalink: "/Place an order/"
 author_profile: true
 ---
 
