@@ -23,3 +23,8 @@ When reaching out, please provide the following information to help me prepare:
 3. **Problem Description:** What exactly is wrong? (e.g., "It won't power on" or "Making a strange noise")
 
 > **Safety Notice:** To ensure safety and quality, all on-site repairs are supervised by my parents. We focus on low-voltage appliances and only charge for basic component costs.
+#### **Featured Services**
+Besides appliance repairs, I am also available for:
+* **Garage Door Remote Setup:** Assisting with the installation and programming of garage door remote control systems.
+* **IKEA Furniture Assembly:** Precise and patient assembly of IKEA furniture, following technical manuals to ensure stability and safety.
+* **More services to come!
